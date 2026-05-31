@@ -29,10 +29,15 @@
           <mxGeometry x="375" y="303" width="62" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-11" value="&lt;font color=&quot;#ffffff&quot;&gt;班级编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="295" y="340" width="64" height="38" as="geometry" />
+          <mxGeometry x="293" y="350" width="64" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="416.8000183105469" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-12" value="&lt;font color=&quot;#ffffff&quot;&gt;班级名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="352" y="392" width="64" height="38" as="geometry" />
+          <mxGeometry x="373" y="391" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-13" value="&lt;font color=&quot;#ffffff&quot;&gt;专业姓名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="465" y="350" width="64" height="38" as="geometry" />
@@ -95,6 +100,9 @@
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-32" value="&lt;font color=&quot;#ffffff&quot;&gt;学期&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="500" y="718" width="64" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="482" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
