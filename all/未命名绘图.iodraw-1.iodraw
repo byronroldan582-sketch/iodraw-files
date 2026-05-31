@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-68" value="&lt;font color=&quot;#ffffff&quot;&gt;N&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="286" y="636" width="76" height="40" as="geometry" />
+          <mxGeometry x="289" y="630.5" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-72" value="&lt;font color=&quot;#ffffff&quot;&gt;授课&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="278.5" y="342.5" width="54" height="49" as="geometry" />
@@ -164,7 +164,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-75" value="Te&lt;font color=&quot;#ffffff&quot;&gt;1&lt;/font&gt;xt" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="229" y="648" width="54" height="30" as="geometry" />
+          <mxGeometry x="332.5" y="334" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-77" value="&lt;font color=&quot;#ffffff&quot;&gt;N&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="640.5" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
