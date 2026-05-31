@@ -60,8 +60,11 @@
         <mxCell id="Azyen3GtWBQnSeRJjQQr-19" value="&lt;font color=&quot;#ffffff&quot;&gt;电话&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="488" y="495" width="64" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-21" value="&lt;font color=&quot;#ffffff&quot;&gt;学生&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="188" y="303" width="62" height="33" as="geometry" />
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-21" value="&lt;font color=&quot;#ffffff&quot;&gt;课程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="198" y="589" width="62" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-22" value="&lt;font color=&quot;#ffffff&quot;&gt;学号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="84" y="234" width="64" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
