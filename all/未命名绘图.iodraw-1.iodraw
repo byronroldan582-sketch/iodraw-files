@@ -122,7 +122,7 @@
             <mxPoint x="355" y="310.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-39" value="Te&lt;font color=&quot;#ffffff&quot;&gt;1&lt;/font&gt;xt" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-39" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="307" y="278" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
