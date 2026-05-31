@@ -441,7 +441,7 @@
             <mxPoint x="265" y="1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-152" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-152" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.285;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Azyen3GtWBQnSeRJjQQr-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="215" y="1059" as="sourcePoint" />
             <mxPoint x="265" y="1009" as="targetPoint" />
