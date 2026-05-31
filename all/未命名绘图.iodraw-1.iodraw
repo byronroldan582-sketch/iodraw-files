@@ -43,6 +43,9 @@
         <mxCell id="Azyen3GtWBQnSeRJjQQr-15" value="&lt;font color=&quot;#ffffff&quot;&gt;教师编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="488" y="226" width="64" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-16" value="&lt;font color=&quot;#ffffff&quot;&gt;教师姓名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="492" y="298" width="64" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
