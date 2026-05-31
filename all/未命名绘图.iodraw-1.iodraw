@@ -78,6 +78,12 @@
         <mxCell id="Azyen3GtWBQnSeRJjQQr-26" value="&lt;font color=&quot;#ffffff&quot;&gt;选课&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="405" y="598" width="62" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-27" value="&lt;font color=&quot;#ffffff&quot;&gt;选课编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="305" y="560" width="64" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-28" value="&lt;font color=&quot;#ffffff&quot;&gt;课程编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="101" y="606.5" width="64" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
