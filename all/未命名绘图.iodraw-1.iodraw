@@ -20,7 +20,7 @@
           <mxGeometry x="89" y="381" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-8" value="&lt;font color=&quot;#ffffff&quot;&gt;电话&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="181" y="540" width="64" height="38" as="geometry" />
+          <mxGeometry x="187" y="485" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-9" value="&lt;font color=&quot;#ffffff&quot;&gt;邮箱&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="242" y="490" width="64" height="38" as="geometry" />
@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-59" value="&lt;font color=&quot;#ffffff&quot;&gt;班级编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="301" y="645" width="57" height="35" as="geometry" />
+          <mxGeometry x="313" y="649" width="57" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-61">
           <mxGeometry relative="1" as="geometry">
@@ -174,7 +174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-61" value="&lt;font color=&quot;#ffffff&quot;&gt;班级名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="365" y="666" width="64" height="38" as="geometry" />
+          <mxGeometry x="382" y="647.5" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-62" value="&lt;font color=&quot;#ffffff&quot;&gt;包含&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="263" y="579" width="54" height="49" as="geometry" />
