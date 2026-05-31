@@ -169,8 +169,8 @@
         <mxCell id="Azyen3GtWBQnSeRJjQQr-77" value="&lt;font color=&quot;#ffffff&quot;&gt;N&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="222" y="330.5" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-78" value="&lt;font color=&quot;#ffffff&quot;&gt;授课&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="288.5" y="352.5" width="54" height="49" as="geometry" />
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-78" value="&lt;font color=&quot;#ffffff&quot;&gt;选修&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="171" y="474" width="54" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
