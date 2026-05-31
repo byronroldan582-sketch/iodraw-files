@@ -4,42 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-3" value="&lt;font color=&quot;#ffffff&quot;&gt;学生&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="178" y="293" width="62" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-4" value="&lt;font color=&quot;#ffffff&quot;&gt;姓名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="100" y="278" width="64" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-5" value="&lt;font color=&quot;#ffffff&quot;&gt;性别&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="74" y="332" width="64" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-6" value="&lt;font color=&quot;#ffffff&quot;&gt;学号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="114" y="214" width="64" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-7" value="&lt;font color=&quot;#ffffff&quot;&gt;年龄&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="89" y="381" width="64" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-10" value="&lt;font color=&quot;#ffffff&quot;&gt;班级&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="355" y="295" width="62" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-11">
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="181.79998779296875" y="490.1000061035156" as="targetPoint" />
+            <mxPoint x="321.5" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-11" value="&lt;font color=&quot;#ffffff&quot;&gt;班级编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="293" y="365" width="57" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-12">
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="281" y="489.3000183105469" as="targetPoint" />
+            <mxPoint x="407.6274169979697" y="397.4350288425445" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-12" value="&lt;font color=&quot;#ffffff&quot;&gt;班级名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="353" y="365" width="64" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-13" value="&lt;font color=&quot;#ffffff&quot;&gt;专业姓名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="427" y="684.5" width="64" height="38" as="geometry" />
+          <mxGeometry x="422" y="731" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-14" value="&lt;font color=&quot;#ffffff&quot;&gt;教师&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="669" y="298" width="62" height="33" as="geometry" />
@@ -84,36 +62,6 @@
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-32" value="&lt;font color=&quot;#ffffff&quot;&gt;学期&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="658" y="724" width="64" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-34" value="&lt;font color=&quot;#ffffff&quot;&gt;包含&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="271" y="287" width="54" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-35" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Azyen3GtWBQnSeRJjQQr-34">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="312" as="sourcePoint" />
-            <mxPoint x="290" y="262" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-36" value="Te&lt;font color=&quot;#ffffff&quot;&gt;1&lt;/font&gt;xt" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="289" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-39" target="Azyen3GtWBQnSeRJjQQr-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-38" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="325" y="311" as="sourcePoint" />
-            <mxPoint x="355" y="310.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-34" target="Azyen3GtWBQnSeRJjQQr-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="312" y="324" as="sourcePoint" />
-            <mxPoint x="298" y="336" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-39" value="&lt;font color=&quot;#ffffff&quot;&gt;N&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="313" y="286" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-45" value="&lt;font color=&quot;#ffffff&quot;&gt;课程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="498" y="262" width="62" height="33" as="geometry" />
@@ -160,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-59" value="&lt;font color=&quot;#ffffff&quot;&gt;班级编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="686" width="57" height="35" as="geometry" />
+          <mxGeometry x="277" y="734" width="57" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-61">
           <mxGeometry relative="1" as="geometry">
@@ -168,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-61" value="&lt;font color=&quot;#ffffff&quot;&gt;班级名称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="350" y="686" width="64" height="38" as="geometry" />
+          <mxGeometry x="347" y="734" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-62" value="&lt;font color=&quot;#ffffff&quot;&gt;包含&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="260" y="637" width="54" height="49" as="geometry" />
