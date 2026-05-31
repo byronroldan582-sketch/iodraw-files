@@ -64,7 +64,7 @@
           <mxGeometry x="658" y="724" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-45" value="&lt;font color=&quot;#ffffff&quot;&gt;课程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="350.5" width="62" height="33" as="geometry" />
+          <mxGeometry x="166" y="350.5" width="62" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-46" value="&lt;font color=&quot;#ffffff&quot;&gt;课程编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="65" y="421" width="64" height="38" as="geometry" />
@@ -178,10 +178,10 @@
             <mxPoint x="426" y="488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azyen3GtWBQnSeRJjQQr-80" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-80" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="203" y="484" as="sourcePoint" />
-            <mxPoint x="201" y="394" as="targetPoint" />
+            <mxPoint x="194" y="613" as="sourcePoint" />
+            <mxPoint x="192" y="523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
