@@ -45,7 +45,7 @@
           <mxGeometry x="353" y="365" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-13" value="&lt;font color=&quot;#ffffff&quot;&gt;专业姓名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="443" y="357" width="64" height="38" as="geometry" />
+          <mxGeometry x="442" y="616" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-14" value="&lt;font color=&quot;#ffffff&quot;&gt;教师&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="669" y="298" width="62" height="33" as="geometry" />
@@ -74,10 +74,10 @@
           <mxGeometry x="563" y="604" width="62" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-27" value="&lt;font color=&quot;#ffffff&quot;&gt;选课编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="491" y="597.5" width="64" height="38" as="geometry" />
+          <mxGeometry x="513" y="549" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-28" value="&lt;font color=&quot;#ffffff&quot;&gt;选课时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="503" y="652" width="64" height="38" as="geometry" />
+          <mxGeometry x="565" y="658" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-29" value="&lt;font color=&quot;#ffffff&quot;&gt;成绩&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="754" y="597.5" width="62" height="33" as="geometry" />
