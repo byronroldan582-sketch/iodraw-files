@@ -397,7 +397,10 @@
           <mxGeometry x="190" y="870" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-131" value="&lt;font color=&quot;#e6e6e6&quot;&gt;学生&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="371" y="955" width="60" height="30" as="geometry" />
+          <mxGeometry x="176" y="935" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Azyen3GtWBQnSeRJjQQr-132" value="&lt;li data-start=&quot;1333&quot; data-end=&quot;1341&quot;&gt;查看个人信息&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1342&quot; data-end=&quot;1350&quot;&gt;&#xa;查询课程信息&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1351&quot; data-end=&quot;1359&quot;&gt;&#xa;查询成绩信息&#xa;&lt;/li&gt;&#xa;&lt;li data-start=&quot;1360&quot; data-end=&quot;1368&quot;&gt;&#xa;查看成绩统计&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432.5999755859375" y="925" width="117" height="166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
