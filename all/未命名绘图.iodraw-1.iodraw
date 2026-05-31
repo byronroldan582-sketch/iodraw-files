@@ -394,7 +394,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-129" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="197" y="901.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="197" y="892" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-131" value="&lt;font color=&quot;#e6e6e6&quot;&gt;学生&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="182" y="957" width="60" height="30" as="geometry" />
