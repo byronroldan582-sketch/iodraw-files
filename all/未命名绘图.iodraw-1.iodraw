@@ -23,13 +23,13 @@
           <mxGeometry x="389" y="350.5" width="62" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-15" value="&lt;font color=&quot;#ffffff&quot;&gt;教师编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="434" y="391.5" width="64" height="38" as="geometry" />
+          <mxGeometry x="468" y="272" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-16" value="&lt;font color=&quot;#ffffff&quot;&gt;教师姓名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="454" y="441.5" width="64" height="38" as="geometry" />
+          <mxGeometry x="476" y="326" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-17" value="&lt;font color=&quot;#ffffff&quot;&gt;性别&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="527" y="441.5" width="64" height="38" as="geometry" />
+          <mxGeometry x="479" y="381" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Azyen3GtWBQnSeRJjQQr-18">
           <mxGeometry relative="1" as="geometry">
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-18" value="&lt;font color=&quot;#ffffff&quot;&gt;职称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="604" y="441.5" width="64" height="38" as="geometry" />
+          <mxGeometry x="479" y="429" width="64" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Azyen3GtWBQnSeRJjQQr-19" value="&lt;font color=&quot;#ffffff&quot;&gt;电话&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="463" y="219" width="64" height="38" as="geometry" />
