@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j7cWzmaZDCJBp52G7apl" name="第 2 页">
-    <mxGraphModel dx="1313" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1129" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnQIQFlZU2SYGtCw54O1-16" value="findByUsernameAndPassword(username, password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#FFFFFF;" edge="1" parent="1" source="dnQIQFlZU2SYGtCw54O1-4" target="dnQIQFlZU2SYGtCw54O1-5">
+        <mxCell id="dnQIQFlZU2SYGtCw54O1-16" value="findByUsernameAndPassword(username, password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#FFFFFF;labelBackgroundColor=#000000;" edge="1" parent="1" source="dnQIQFlZU2SYGtCw54O1-4" target="dnQIQFlZU2SYGtCw54O1-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="721" y="345" />
