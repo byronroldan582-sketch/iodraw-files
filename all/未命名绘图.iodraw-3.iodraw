@@ -42,7 +42,7 @@
         <mxCell id="dnQIQFlZU2SYGtCw54O1-11" value="[登录失败]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="dnQIQFlZU2SYGtCw54O1-9">
           <mxGeometry y="430" width="1456" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="dnQIQFlZU2SYGtCw54O1-12" value="输入用户名和密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="dnQIQFlZU2SYGtCw54O1-2" target="dnQIQFlZU2SYGtCw54O1-3">
+        <mxCell id="dnQIQFlZU2SYGtCw54O1-12" value="输入用户名和密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#FFFFFF;" edge="1" parent="1" source="dnQIQFlZU2SYGtCw54O1-2" target="dnQIQFlZU2SYGtCw54O1-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="204" y="129" />
