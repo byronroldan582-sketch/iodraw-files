@@ -12,6 +12,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dnQIQFlZU2SYGtCw54O1-1" value="sequenceDiagram&#xa;    actor 用户&#xa;    participant V as View_LoginFrame&#xa;    participant C as Controller_login&#xa;    participant D as UserDao&#xa;    participant DB as MySQL_t_user&#xa;    participant M as User&#xa;    participant MF as View_MainFrame&#xa;&#xa;&#xa;    用户-&gt;&gt;V: 输入用户名和密码&#xa;    用户-&gt;&gt;V: 点击登录按钮&#xa;    V-&gt;&gt;C: 调用 login()&#xa;    C-&gt;&gt;V: 获取用户名和密码&#xa;    C-&gt;&gt;D: findByUsernameAndPassword(username, password)&#xa;    D-&gt;&gt;DB: 执行SQL查询&#xa;    DB--&gt;&gt;D: 返回ResultSet&#xa;&#xa;&#xa;    alt 登录成功&#xa;        D-&gt;&gt;M: 封装User对象&#xa;        M--&gt;&gt;D: 返回User&#xa;        D--&gt;&gt;C: 返回User&#xa;        C-&gt;&gt;MF: new MainFrame(user)&#xa;        C-&gt;&gt;MF: setVisible(true)&#xa;        C-&gt;&gt;V: dispose()&#xa;        MF--&gt;&gt;用户: 显示系统主界面&#xa;    else 登录失败&#xa;        D--&gt;&gt;C: 返回null&#xa;        C-&gt;&gt;V: 弹出错误提示&#xa;        V--&gt;&gt;用户: 用户名或密码错误&#xa;    end" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="417.5999755859375" y="110" width="365" height="483" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
