@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnQIQFlZU2SYGtCw54O1-16" value="findByUsernameAndPassword(username, password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="dnQIQFlZU2SYGtCw54O1-4" target="dnQIQFlZU2SYGtCw54O1-5">
+        <mxCell id="dnQIQFlZU2SYGtCw54O1-16" value="findByUsernameAndPassword(username, password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#FFFFFF;" edge="1" parent="1" source="dnQIQFlZU2SYGtCw54O1-4" target="dnQIQFlZU2SYGtCw54O1-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="721" y="345" />
@@ -117,11 +117,6 @@
             <Array as="points">
               <mxPoint x="1021" y="716" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dnQIQFlZU2SYGtCw54O1-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dnQIQFlZU2SYGtCw54O1-22">
-          <mxGeometry x="0.0133" y="16" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dnQIQFlZU2SYGtCw54O1-23" value="setVisible(true)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="dnQIQFlZU2SYGtCw54O1-4" target="dnQIQFlZU2SYGtCw54O1-8">
